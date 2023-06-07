@@ -33,3 +33,10 @@ Open the file in MATLAB and run the script.
 
 ### `Python`
 ⚠ work in progress
+
+## References
+- [This is the Difference of Gaussians](https://www.youtube.com/watch?v=5EuYKEvugLU) by Acerola. Special thanks to him ✨
+- [XDoG: An eXtended difference-of-Gaussians compendium including advanced image stylization](references/eXtended_difference_of_gaussians.pdf)
+- [Image Abstraction by Structure Adaptive Filtering](references/image_abstraction_by_structure_adaptive_filtering.pdf)
+- [Flow-Based Image Abstraction](references/flow_based_image_abstraction.pdf)
+- [Color Image Quantization For Frame Buffer Display](references/color_quantization.pdf)
